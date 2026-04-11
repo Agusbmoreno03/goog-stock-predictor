@@ -85,28 +85,6 @@ What you'll see:
 - Historical predictions table (once you have data)
 - **Trade Ideas Journal** — write your own thesis, set a target and stop loss, track the outcome
 
----
-
-## How to set it up
-
-**Install dependencies:**
-```bash
-pip install streamlit yfinance scikit-learn xgboost pandas numpy matplotlib requests textblob
-python -m textblob.download_corpora
-```
-
-**Run the dashboard:**
-```bash
-python -m streamlit run goog_screener_dashboard.py
-```
-
-**Run a prediction manually:**
-```bash
-python stock_predictor_auto_v2.py
-```
-
-**NewsAPI key (optional but recommended):**
-Get a free key at [newsapi.org](https://newsapi.org/register) and paste it in the `NEWS_API_KEY` variable inside `stock_predictor_auto_v2.py`.
 
 ---
 
@@ -125,12 +103,5 @@ Both scripts are set up to run automatically every weekday at market close via W
 - [ ] Expand to multiple tickers
 - [ ] Improve sentiment analysis with a better NLP model
 
----
-
-## Stack
-
-Python · scikit-learn · XGBoost · yfinance · Streamlit · TextBlob · NewsAPI · matplotlib · pandas
-
----
 
 *Learning project — not financial advice.*
