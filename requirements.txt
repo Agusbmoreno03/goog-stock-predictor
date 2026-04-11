@@ -1,0 +1,9 @@
+yfinance
+scikit-learn
+xgboost
+pandas
+numpy
+streamlit
+matplotlib
+requests
+textblob
