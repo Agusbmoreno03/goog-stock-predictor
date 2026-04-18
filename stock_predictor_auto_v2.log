@@ -247,3 +247,206 @@
 [2026-04-10 17:35:33]   FAIR VALUE             $316.01
 [2026-04-10 17:35:33] Script v2 finished successfully.
 [2026-04-10 17:35:33] -------------------------------------------------------
+[2026-04-13 17:35:38] Script v2 started — today is 2026-04-13 (Monday)
+[2026-04-13 17:35:38] Downloading GOOG data (2 years)...
+[2026-04-13 17:35:41] Latest available close: 2026-04-13 — $319.21
+[2026-04-13 17:35:41] Updated real close for 2026-04-13: $319.21
+[2026-04-13 17:35:41] Fetching news sentiment...
+[2026-04-13 17:35:42]   Sentiment: 10 titulares analizados — score=+0.1987
+[2026-04-13 17:35:42]     [+0.000] Wall Street strategists say it's time to 'jump in' with tech stocks amid Iran ce
+[2026-04-13 17:35:42]     [+0.500] Analysts Love Alphabet Stock — They Just Can’t Agree On a Direction
+[2026-04-13 17:35:42]     [+0.172] Down More Than 30% from All-Time Highs, Should You Buy the Tesla Stock Dip?
+[2026-04-13 17:35:42] Computing dynamic model weights...
+[2026-04-13 17:35:42]   MAE últimos 6 días:
+[2026-04-13 17:35:42]     Linear Regression      MAE=$7.46  peso=19.51%
+[2026-04-13 17:35:42]     Random Forest          MAE=$5.75  peso=25.29%
+[2026-04-13 17:35:42]     SVR                    MAE=$4.44  peso=32.76%
+[2026-04-13 17:35:42]     XGBoost                MAE=$6.49  peso=22.43%
+[2026-04-13 17:35:42] Building features and training models...
+[2026-04-13 17:35:42] Predictions:
+[2026-04-13 17:35:42]   Linear Regression      $315.51  ($-3.70)  peso=19.5%
+[2026-04-13 17:35:42]   Random Forest          $318.63  ($-0.58)  peso=25.3%
+[2026-04-13 17:35:42]   SVR                    $319.11  ($-0.10)  peso=32.8%
+[2026-04-13 17:35:42]   XGBoost                $317.50  ($-1.71)  peso=22.4%
+[2026-04-13 17:35:42]   FAIR VALUE             $317.89  (ponderado)
+[2026-04-13 17:35:42] Saved prediction for 2026-04-14 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-13 17:35:42] -------------------------------------------------------
+[2026-04-13 17:35:42] Last close  (2026-04-13): $319.21
+[2026-04-13 17:35:42] Sentiment score: +0.1987
+[2026-04-13 17:35:42] Predictions for 2026-04-14:
+[2026-04-13 17:35:42]   Linear Regression      $315.51  (peso 19.51%)
+[2026-04-13 17:35:42]   Random Forest          $318.63  (peso 25.29%)
+[2026-04-13 17:35:42]   SVR                    $319.11  (peso 32.76%)
+[2026-04-13 17:35:42]   XGBoost                $317.50  (peso 22.43%)
+[2026-04-13 17:35:42]   FAIR VALUE             $317.89
+[2026-04-13 17:35:42] Script v2 finished successfully.
+[2026-04-13 17:35:42] -------------------------------------------------------
+[2026-04-14 17:51:48] Script v2 started — today is 2026-04-14 (Tuesday)
+[2026-04-14 17:51:48] Downloading GOOG data (2 years)...
+[2026-04-14 17:51:50] Latest available close: 2026-04-14 — $330.58
+[2026-04-14 17:51:50] Updated real close for 2026-04-14: $330.58
+[2026-04-14 17:51:50] Fetching news sentiment...
+[2026-04-14 17:51:51]   Sentiment: 10 titulares analizados — score=+0.1987
+[2026-04-14 17:51:51]     [+0.000] Alphabet Stock Dips in Pre-Market as AI Spending and Antitrust Pressures Weigh o
+[2026-04-14 17:51:51]     [+0.000] Wall Street strategists say it's time to 'jump in' with tech stocks amid Iran ce
+[2026-04-14 17:51:51]     [+0.500] Analysts Love Alphabet Stock — They Just Can’t Agree On a Direction
+[2026-04-14 17:51:51] Computing dynamic model weights...
+[2026-04-14 17:51:51]   MAE últimos 7 días:
+[2026-04-14 17:51:51]     Linear Regression      MAE=$8.55  peso=19.97%
+[2026-04-14 17:51:51]     Random Forest          MAE=$6.64  peso=25.71%
+[2026-04-14 17:51:51]     SVR                    MAE=$5.45  peso=31.34%
+[2026-04-14 17:51:51]     XGBoost                MAE=$7.43  peso=22.98%
+[2026-04-14 17:51:51] Building features and training models...
+[2026-04-14 17:51:51] Predictions:
+[2026-04-14 17:51:51]   Linear Regression      $319.60  ($-10.98)  peso=20.0%
+[2026-04-14 17:51:51]   Random Forest          $326.13  ($-4.45)  peso=25.7%
+[2026-04-14 17:51:51]   SVR                    $330.48  ($-0.10)  peso=31.3%
+[2026-04-14 17:51:51]   XGBoost                $321.81  ($-8.77)  peso=23.0%
+[2026-04-14 17:51:52]   FAIR VALUE             $325.20  (ponderado)
+[2026-04-14 17:51:52] Saved prediction for 2026-04-15 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-14 17:51:52] -------------------------------------------------------
+[2026-04-14 17:51:52] Last close  (2026-04-14): $330.58
+[2026-04-14 17:51:52] Sentiment score: +0.1987
+[2026-04-14 17:51:52] Predictions for 2026-04-15:
+[2026-04-14 17:51:52]   Linear Regression      $319.60  (peso 19.97%)
+[2026-04-14 17:51:52]   Random Forest          $326.13  (peso 25.71%)
+[2026-04-14 17:51:52]   SVR                    $330.48  (peso 31.34%)
+[2026-04-14 17:51:52]   XGBoost                $321.81  (peso 22.98%)
+[2026-04-14 17:51:52]   FAIR VALUE             $325.20
+[2026-04-14 17:51:52] Script v2 finished successfully.
+[2026-04-14 17:51:52] -------------------------------------------------------
+[2026-04-14 19:24:24] Script v2 started — today is 2026-04-14 (Tuesday)
+[2026-04-14 19:24:24] Downloading GOOG data (2 years)...
+[2026-04-14 19:24:25] Latest available close: 2026-04-14 — $330.58
+[2026-04-14 19:24:25] Fetching news sentiment...
+[2026-04-14 19:24:27]   Sentiment: 10 titulares analizados — score=+0.1987
+[2026-04-14 19:24:27]     [+0.000] Alphabet Stock Dips in Pre-Market as AI Spending and Antitrust Pressures Weigh o
+[2026-04-14 19:24:27]     [+0.000] Wall Street strategists say it's time to 'jump in' with tech stocks amid Iran ce
+[2026-04-14 19:24:27]     [+0.500] Analysts Love Alphabet Stock — They Just Can’t Agree On a Direction
+[2026-04-14 19:24:27] Computing dynamic model weights...
+[2026-04-14 19:24:27]   MAE últimos 7 días:
+[2026-04-14 19:24:27]     Linear Regression      MAE=$8.55  peso=19.97%
+[2026-04-14 19:24:27]     Random Forest          MAE=$6.64  peso=25.71%
+[2026-04-14 19:24:27]     SVR                    MAE=$5.45  peso=31.34%
+[2026-04-14 19:24:27]     XGBoost                MAE=$7.43  peso=22.98%
+[2026-04-14 19:24:27] Building features and training models...
+[2026-04-14 19:24:28] Predictions:
+[2026-04-14 19:24:28]   Linear Regression      $319.60  ($-10.98)  peso=20.0%
+[2026-04-14 19:24:28]   Random Forest          $326.13  ($-4.45)  peso=25.7%
+[2026-04-14 19:24:28]   SVR                    $330.48  ($-0.10)  peso=31.3%
+[2026-04-14 19:24:28]   XGBoost                $321.28  ($-9.30)  peso=23.0%
+[2026-04-14 19:24:28]   FAIR VALUE             $325.07  (ponderado)
+[2026-04-14 19:24:28] Prediction for 2026-04-15 already exists. Skipping.
+[2026-04-14 19:24:28] -------------------------------------------------------
+[2026-04-14 19:24:28] Last close  (2026-04-14): $330.58
+[2026-04-14 19:24:28] Sentiment score: +0.1987
+[2026-04-14 19:24:28] Predictions for 2026-04-15:
+[2026-04-14 19:24:28]   Linear Regression      $319.60  (peso 19.97%)
+[2026-04-14 19:24:28]   Random Forest          $326.13  (peso 25.71%)
+[2026-04-14 19:24:28]   SVR                    $330.48  (peso 31.34%)
+[2026-04-14 19:24:28]   XGBoost                $321.28  (peso 22.98%)
+[2026-04-14 19:24:28]   FAIR VALUE             $325.07
+[2026-04-14 19:24:28] Script v2 finished successfully.
+[2026-04-14 19:24:28] -------------------------------------------------------
+[2026-04-15 17:48:27] Script v2 started — today is 2026-04-15 (Wednesday)
+[2026-04-15 17:48:27] Downloading GOOG data (2 years)...
+[2026-04-15 17:48:29] Latest available close: 2026-04-15 — $334.47
+[2026-04-15 17:48:29] Updated real close for 2026-04-15: $334.47
+[2026-04-15 17:48:29] Fetching news sentiment...
+[2026-04-15 17:48:30]   Sentiment: 10 titulares analizados — score=+0.2187
+[2026-04-15 17:48:30]     [+0.200] 10 Best AI Stocks to Buy in 2026 as Artificial Intelligence Spending Accelerates
+[2026-04-15 17:48:30]     [+0.000] Jassy Is Selling the Amazon AI Story: Should You Buy AMZN Stock Here?
+[2026-04-15 17:48:30]     [+0.000] Alphabet Stock Dips in Pre-Market as AI Spending and Antitrust Pressures Weigh o
+[2026-04-15 17:48:31] Computing dynamic model weights...
+[2026-04-15 17:48:31]   MAE últimos 8 días:
+[2026-04-15 17:48:31]     Linear Regression      MAE=$9.34  peso=18.90%
+[2026-04-15 17:48:31]     Random Forest          MAE=$6.85  peso=25.75%
+[2026-04-15 17:48:31]     SVR                    MAE=$5.26  peso=33.52%
+[2026-04-15 17:48:31]     XGBoost                MAE=$8.08  peso=21.83%
+[2026-04-15 17:48:31] Building features and training models...
+[2026-04-15 17:48:31] Predictions:
+[2026-04-15 17:48:31]   Linear Regression      $332.89  ($-1.58)  peso=18.9%
+[2026-04-15 17:48:31]   Random Forest          $332.85  ($-1.62)  peso=25.8%
+[2026-04-15 17:48:31]   SVR                    $334.57  (+$0.10)  peso=33.5%
+[2026-04-15 17:48:31]   XGBoost                $330.97  ($-3.50)  peso=21.8%
+[2026-04-15 17:48:31]   FAIR VALUE             $333.02  (ponderado)
+[2026-04-15 17:48:31] Saved prediction for 2026-04-16 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-15 17:48:31] -------------------------------------------------------
+[2026-04-15 17:48:31] Last close  (2026-04-15): $334.47
+[2026-04-15 17:48:31] Sentiment score: +0.2187
+[2026-04-15 17:48:31] Predictions for 2026-04-16:
+[2026-04-15 17:48:31]   Linear Regression      $332.89  (peso 18.90%)
+[2026-04-15 17:48:31]   Random Forest          $332.85  (peso 25.75%)
+[2026-04-15 17:48:31]   SVR                    $334.57  (peso 33.52%)
+[2026-04-15 17:48:31]   XGBoost                $330.97  (peso 21.83%)
+[2026-04-15 17:48:31]   FAIR VALUE             $333.02
+[2026-04-15 17:48:31] Script v2 finished successfully.
+[2026-04-15 17:48:31] -------------------------------------------------------
+[2026-04-16 17:43:49] Script v2 started — today is 2026-04-16 (Thursday)
+[2026-04-16 17:43:49] Downloading GOOG data (2 years)...
+[2026-04-16 17:43:51] Latest available close: 2026-04-16 — $332.77
+[2026-04-16 17:43:51] Updated real close for 2026-04-16: $332.77
+[2026-04-16 17:43:51] Fetching news sentiment...
+[2026-04-16 17:43:52]   Sentiment: 10 titulares analizados — score=+0.2187
+[2026-04-16 17:43:52]     [+0.000] GOOG Dips 0.5% as Alphabet Awaits Q1 Earnings Amid AI Spending and Iran Relief R
+[2026-04-16 17:43:52]     [+0.200] 10 Best AI Stocks to Buy in 2026 as Artificial Intelligence Spending Accelerates
+[2026-04-16 17:43:52]     [+0.000] Jassy Is Selling the Amazon AI Story: Should You Buy AMZN Stock Here?
+[2026-04-16 17:43:52] Computing dynamic model weights...
+[2026-04-16 17:43:52]   MAE últimos 9 días:
+[2026-04-16 17:43:52]     Linear Regression      MAE=$8.31  peso=19.26%
+[2026-04-16 17:43:52]     Random Forest          MAE=$6.10  peso=26.25%
+[2026-04-16 17:43:52]     SVR                    MAE=$4.88  peso=32.81%
+[2026-04-16 17:43:52]     XGBoost                MAE=$7.38  peso=21.68%
+[2026-04-16 17:43:52] Building features and training models...
+[2026-04-16 17:43:53] Predictions:
+[2026-04-16 17:43:53]   Linear Regression      $336.09  (+$3.32)  peso=19.3%
+[2026-04-16 17:43:53]   Random Forest          $333.56  (+$0.79)  peso=26.2%
+[2026-04-16 17:43:53]   SVR                    $332.82  (+$0.05)  peso=32.8%
+[2026-04-16 17:43:53]   XGBoost                $333.82  (+$1.05)  peso=21.7%
+[2026-04-16 17:43:53]   FAIR VALUE             $333.86  (ponderado)
+[2026-04-16 17:43:53] Saved prediction for 2026-04-17 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-16 17:43:53] -------------------------------------------------------
+[2026-04-16 17:43:53] Last close  (2026-04-16): $332.77
+[2026-04-16 17:43:53] Sentiment score: +0.2187
+[2026-04-16 17:43:53] Predictions for 2026-04-17:
+[2026-04-16 17:43:53]   Linear Regression      $336.09  (peso 19.26%)
+[2026-04-16 17:43:53]   Random Forest          $333.56  (peso 26.25%)
+[2026-04-16 17:43:53]   SVR                    $332.82  (peso 32.81%)
+[2026-04-16 17:43:53]   XGBoost                $333.82  (peso 21.68%)
+[2026-04-16 17:43:53]   FAIR VALUE             $333.86
+[2026-04-16 17:43:53] Script v2 finished successfully.
+[2026-04-16 17:43:53] -------------------------------------------------------
+[2026-04-17 17:35:27] Script v2 started — today is 2026-04-17 (Friday)
+[2026-04-17 17:35:27] Downloading GOOG data (2 years)...
+[2026-04-17 17:35:28] Latest available close: 2026-04-17 — $339.4
+[2026-04-17 17:35:28] Updated real close for 2026-04-17: $339.4
+[2026-04-17 17:35:28] Fetching news sentiment...
+[2026-04-17 17:35:29]   Sentiment: 10 titulares analizados — score=+0.0042
+[2026-04-17 17:35:29]     [-0.083] Alphabet Stock Dips Slightly to $333.97 as Investors Await Q1 Earnings and Massi
+[2026-04-17 17:35:29]     [+0.000] Is Alphabet (GOOGL) Still an Undervalued AI Stock to Buy Now?
+[2026-04-17 17:35:29]     [+0.000] AI's Cash Splash Continues: Meta Platforms and Broadcom Expand Custom Chip Partn
+[2026-04-17 17:35:29] Computing dynamic model weights...
+[2026-04-17 17:35:29]   MAE últimos 10 días:
+[2026-04-17 17:35:29]     Linear Regression      MAE=$7.81  peso=20.33%
+[2026-04-17 17:35:29]     Random Forest          MAE=$6.07  peso=26.16%
+[2026-04-17 17:35:29]     SVR                    MAE=$5.05  peso=31.46%
+[2026-04-17 17:35:29]     XGBoost                MAE=$7.20  peso=22.05%
+[2026-04-17 17:35:29] Building features and training models...
+[2026-04-17 17:35:30] Predictions:
+[2026-04-17 17:35:30]   Linear Regression      $333.32  ($-6.08)  peso=20.3%
+[2026-04-17 17:35:30]   Random Forest          $337.23  ($-2.17)  peso=26.2%
+[2026-04-17 17:35:30]   SVR                    $339.30  ($-0.10)  peso=31.5%
+[2026-04-17 17:35:30]   XGBoost                $336.44  ($-2.96)  peso=22.1%
+[2026-04-17 17:35:30]   FAIR VALUE             $336.91  (ponderado)
+[2026-04-17 17:35:30] Saved prediction for 2026-04-20 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-17 17:35:30] -------------------------------------------------------
+[2026-04-17 17:35:30] Last close  (2026-04-17): $339.4
+[2026-04-17 17:35:30] Sentiment score: +0.0042
+[2026-04-17 17:35:30] Predictions for 2026-04-20:
+[2026-04-17 17:35:30]   Linear Regression      $333.32  (peso 20.33%)
+[2026-04-17 17:35:30]   Random Forest          $337.23  (peso 26.16%)
+[2026-04-17 17:35:30]   SVR                    $339.30  (peso 31.46%)
+[2026-04-17 17:35:30]   XGBoost                $336.44  (peso 22.05%)
+[2026-04-17 17:35:30]   FAIR VALUE             $336.91
+[2026-04-17 17:35:30] Script v2 finished successfully.
+[2026-04-17 17:35:30] -------------------------------------------------------
