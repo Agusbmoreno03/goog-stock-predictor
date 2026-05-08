@@ -57,16 +57,17 @@ The **Fair Value** is a weighted average of all 4 predictions. In V2, those weig
 ---
 
 ## V1 vs V2
-
+ 
 | Feature | V1 | V2 |
 |---------|----|----|
 | Models | 4 ML models | Same 4 models |
 | Weights | Fixed (RF 40%, XGB 30%, LR 15%, SVR 15%) | Dynamic — adjusts daily based on MAE |
 | News sentiment | No | Yes — via NewsAPI + TextBlob |
+| Macro features | No | Yes — VIX + S&P 500 daily return |
 | Self-improving | No | Partially — weights adapt over time |
-
+ 
 **Honest take:** After 1 week of data, V2 didn't improve much over V1. During high-volatility weeks (like tariff announcements), both models underestimated the real price. The dynamic weights need more historical data to make a real difference — check back in a month.
-
+ 
 ---
 
 ## The dashboard
@@ -97,11 +98,13 @@ Both scripts are set up to run automatically every weekday at market close via W
 ---
 
 ## What's next
-
+ 
 - [ ] Online learning — models that update incrementally instead of retraining from scratch
-- [ ] Add macro features (VIX, 10Y Treasury yield, DXY)
+- [x] Add macro features (VIX + S&P 500 daily return) ✓
 - [ ] Expand to multiple tickers
 - [ ] Improve sentiment analysis with a better NLP model
-
+---
+ 
+*Learning project — not financial advice.*
 
 *Learning project — not financial advice.*
