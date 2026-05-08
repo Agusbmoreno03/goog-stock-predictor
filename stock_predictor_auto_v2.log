@@ -450,3 +450,498 @@
 [2026-04-17 17:35:30]   FAIR VALUE             $336.91
 [2026-04-17 17:35:30] Script v2 finished successfully.
 [2026-04-17 17:35:30] -------------------------------------------------------
+[2026-04-22 09:41:24] Script v2 started — today is 2026-04-22 (Wednesday)
+[2026-04-22 09:41:24] Downloading GOOG data (2 years)...
+[2026-04-22 09:41:26] Latest available close: 2026-04-21 — $330.47
+[2026-04-22 09:41:26] Downloading macro data (VIX + SPY)...
+[2026-04-22 09:41:27]   Macro: 501 rows — VIX avg=18.2
+[2026-04-22 09:41:27] Fetching news sentiment...
+[2026-04-22 09:41:27]   Sentiment: no API key found in .env — score = 0.0
+[2026-04-22 09:41:27] Computing dynamic model weights...
+[2026-04-22 09:41:27]   MAE last 10 days:
+[2026-04-22 09:41:27]     Linear Regression      MAE=$7.81  weight=20.33%
+[2026-04-22 09:41:27]     Random Forest          MAE=$6.07  weight=26.16%
+[2026-04-22 09:41:27]     SVR                    MAE=$5.05  weight=31.46%
+[2026-04-22 09:41:27]     XGBoost                MAE=$7.20  weight=22.05%
+[2026-04-22 09:41:27] Building features and training models...
+[2026-04-22 09:41:28] Predictions:
+[2026-04-22 09:41:28]   Linear Regression      $334.90  (+$4.43)  weight=20.3%
+[2026-04-22 09:41:28]   Random Forest          $331.97  (+$1.50)  weight=26.2%
+[2026-04-22 09:41:28]   SVR                    $330.57  (+$0.10)  weight=31.5%
+[2026-04-22 09:41:28]   XGBoost                $330.87  (+$0.40)  weight=22.1%
+[2026-04-22 09:41:28]   FAIR VALUE             $331.88  (weighted)
+[2026-04-22 09:41:28] Saved prediction for 2026-04-22 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-22 09:41:28] -------------------------------------------------------
+[2026-04-22 09:41:28] Last close  (2026-04-21): $330.47
+[2026-04-22 09:41:28] Sentiment score: +0.0000
+[2026-04-22 09:41:28] Predictions for 2026-04-22:
+[2026-04-22 09:41:28]   Linear Regression      $334.90  (weight 20.33%)
+[2026-04-22 09:41:28]   Random Forest          $331.97  (weight 26.16%)
+[2026-04-22 09:41:28]   SVR                    $330.57  (weight 31.46%)
+[2026-04-22 09:41:28]   XGBoost                $330.87  (weight 22.05%)
+[2026-04-22 09:41:28]   FAIR VALUE             $331.88
+[2026-04-22 09:41:28] Script v2 finished successfully.
+[2026-04-22 09:41:28] -------------------------------------------------------
+[2026-04-22 09:52:32] Script v2 started — today is 2026-04-22 (Wednesday)
+[2026-04-22 09:52:32] Downloading GOOG data (2 years)...
+[2026-04-22 09:52:36] Latest available close: 2026-04-21 — $330.47
+[2026-04-22 09:52:36] Downloading macro data (VIX + SPY)...
+[2026-04-22 09:52:38]   Macro: 501 rows — VIX avg=18.2
+[2026-04-22 09:52:38] Fetching news sentiment...
+[2026-04-22 09:52:38]   Sentiment: no API key found in .env — score = 0.0
+[2026-04-22 09:52:38] Computing dynamic model weights...
+[2026-04-22 09:52:38]   MAE last 10 days:
+[2026-04-22 09:52:38]     Linear Regression      MAE=$7.81  weight=20.33%
+[2026-04-22 09:52:38]     Random Forest          MAE=$6.07  weight=26.16%
+[2026-04-22 09:52:38]     SVR                    MAE=$5.05  weight=31.46%
+[2026-04-22 09:52:38]     XGBoost                MAE=$7.20  weight=22.05%
+[2026-04-22 09:52:38] Building features and training models...
+[2026-04-22 09:52:43] Predictions:
+[2026-04-22 09:52:43]   Linear Regression      $334.90  (+$4.43)  weight=20.3%
+[2026-04-22 09:52:43]   Random Forest          $331.97  (+$1.50)  weight=26.2%
+[2026-04-22 09:52:43]   SVR                    $330.57  (+$0.10)  weight=31.5%
+[2026-04-22 09:52:43]   XGBoost                $330.87  (+$0.40)  weight=22.1%
+[2026-04-22 09:52:43]   FAIR VALUE             $331.88  (weighted)
+[2026-04-22 09:52:43] Prediction for 2026-04-22 already exists. Skipping.
+[2026-04-22 09:52:43] -------------------------------------------------------
+[2026-04-22 09:52:43] Last close  (2026-04-21): $330.47
+[2026-04-22 09:52:43] Sentiment score: +0.0000
+[2026-04-22 09:52:43] Predictions for 2026-04-22:
+[2026-04-22 09:52:43]   Linear Regression      $334.90  (weight 20.33%)
+[2026-04-22 09:52:43]   Random Forest          $331.97  (weight 26.16%)
+[2026-04-22 09:52:43]   SVR                    $330.57  (weight 31.46%)
+[2026-04-22 09:52:43]   XGBoost                $330.87  (weight 22.05%)
+[2026-04-22 09:52:43]   FAIR VALUE             $331.88
+[2026-04-22 09:52:43] Script v2 finished successfully.
+[2026-04-22 09:52:43] -------------------------------------------------------
+[2026-04-22 17:57:31] Script v2 started — today is 2026-04-22 (Wednesday)
+[2026-04-22 17:57:31] Downloading GOOG data (2 years)...
+[2026-04-22 17:57:35] Latest available close: 2026-04-22 — $337.73
+[2026-04-22 17:57:35] Updated real close for 2026-04-22: $337.73
+[2026-04-22 17:57:35] Downloading macro data (VIX + SPY)...
+[2026-04-22 17:57:38]   Macro: 501 rows — VIX avg=18.2
+[2026-04-22 17:57:38] Fetching news sentiment...
+[2026-04-22 17:57:38]   Sentiment: no API key found in .env — score = 0.0
+[2026-04-22 17:57:38] Computing dynamic model weights...
+[2026-04-22 17:57:38]   MAE last 11 days:
+[2026-04-22 17:57:38]     Linear Regression      MAE=$7.36  weight=21.52%
+[2026-04-22 17:57:38]     Random Forest          MAE=$6.04  weight=26.20%
+[2026-04-22 17:57:38]     SVR                    MAE=$5.24  weight=30.21%
+[2026-04-22 17:57:38]     XGBoost                MAE=$7.17  weight=22.08%
+[2026-04-22 17:57:38] Building features and training models...
+[2026-04-22 17:57:38] Predictions:
+[2026-04-22 17:57:38]   Linear Regression      $330.20  ($-7.53)  weight=21.5%
+[2026-04-22 17:57:38]   Random Forest          $334.60  ($-3.13)  weight=26.2%
+[2026-04-22 17:57:38]   SVR                    $337.63  ($-0.10)  weight=30.2%
+[2026-04-22 17:57:38]   XGBoost                $332.65  ($-5.08)  weight=22.1%
+[2026-04-22 17:57:38]   FAIR VALUE             $334.17  (weighted)
+[2026-04-22 17:57:38] Saved prediction for 2026-04-23 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-22 17:57:38] -------------------------------------------------------
+[2026-04-22 17:57:38] Last close  (2026-04-22): $337.73
+[2026-04-22 17:57:38] Sentiment score: +0.0000
+[2026-04-22 17:57:38] Predictions for 2026-04-23:
+[2026-04-22 17:57:38]   Linear Regression      $330.20  (weight 21.52%)
+[2026-04-22 17:57:38]   Random Forest          $334.60  (weight 26.20%)
+[2026-04-22 17:57:38]   SVR                    $337.63  (weight 30.21%)
+[2026-04-22 17:57:38]   XGBoost                $332.65  (weight 22.08%)
+[2026-04-22 17:57:38]   FAIR VALUE             $334.17
+[2026-04-22 17:57:38] Script v2 finished successfully.
+[2026-04-22 17:57:38] -------------------------------------------------------
+[2026-04-23 17:35:33] Script v2 started — today is 2026-04-23 (Thursday)
+[2026-04-23 17:35:33] Downloading GOOG data (2 years)...
+[2026-04-23 17:35:35] Latest available close: 2026-04-23 — $337.75
+[2026-04-23 17:35:35] Updated real close for 2026-04-23: $337.75
+[2026-04-23 17:35:35] Downloading macro data (VIX + SPY)...
+[2026-04-23 17:35:36]   Macro: 501 rows — VIX avg=18.2
+[2026-04-23 17:35:36] Fetching news sentiment...
+[2026-04-23 17:35:36]   Sentiment: no API key found in .env — score = 0.0
+[2026-04-23 17:35:36] Computing dynamic model weights...
+[2026-04-23 17:35:36]   MAE last 12 days:
+[2026-04-23 17:35:36]     Linear Regression      MAE=$7.38  weight=20.59%
+[2026-04-23 17:35:36]     Random Forest          MAE=$5.80  weight=26.17%
+[2026-04-23 17:35:36]     SVR                    MAE=$4.81  weight=31.54%
+[2026-04-23 17:35:36]     XGBoost                MAE=$7.00  weight=21.69%
+[2026-04-23 17:35:36] Building features and training models...
+[2026-04-23 17:35:38] Predictions:
+[2026-04-23 17:35:38]   Linear Regression      $337.88  (+$0.13)  weight=20.6%
+[2026-04-23 17:35:38]   Random Forest          $336.48  ($-1.27)  weight=26.2%
+[2026-04-23 17:35:38]   SVR                    $337.65  ($-0.10)  weight=31.5%
+[2026-04-23 17:35:38]   XGBoost                $335.66  ($-2.09)  weight=21.7%
+[2026-04-23 17:35:38]   FAIR VALUE             $336.93  (weighted)
+[2026-04-23 17:35:38] Saved prediction for 2026-04-24 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-23 17:35:38] -------------------------------------------------------
+[2026-04-23 17:35:38] Last close  (2026-04-23): $337.75
+[2026-04-23 17:35:38] Sentiment score: +0.0000
+[2026-04-23 17:35:38] Predictions for 2026-04-24:
+[2026-04-23 17:35:38]   Linear Regression      $337.88  (weight 20.59%)
+[2026-04-23 17:35:38]   Random Forest          $336.48  (weight 26.17%)
+[2026-04-23 17:35:38]   SVR                    $337.65  (weight 31.54%)
+[2026-04-23 17:35:38]   XGBoost                $335.66  (weight 21.69%)
+[2026-04-23 17:35:38]   FAIR VALUE             $336.93
+[2026-04-23 17:35:38] Script v2 finished successfully.
+[2026-04-23 17:35:38] -------------------------------------------------------
+[2026-04-24 17:55:57] Script v2 started — today is 2026-04-24 (Friday)
+[2026-04-24 17:55:57] Downloading GOOG data (2 years)...
+[2026-04-24 17:55:57] ERROR: No data downloaded.
+[2026-04-24 18:05:28] Script v2 started — today is 2026-04-24 (Friday)
+[2026-04-24 18:05:28] Downloading GOOG data (2 years)...
+[2026-04-24 18:05:30] Latest available close: 2026-04-24 — $342.32
+[2026-04-24 18:05:30] Updated real close for 2026-04-24: $342.32
+[2026-04-24 18:05:30] Downloading macro data (VIX + SPY)...
+[2026-04-24 18:05:32]   Macro: 501 rows — VIX avg=18.2
+[2026-04-24 18:05:32] Fetching news sentiment...
+[2026-04-24 18:05:32]   Sentiment: no API key found in .env — score = 0.0
+[2026-04-24 18:05:32] Computing dynamic model weights...
+[2026-04-24 18:05:32]   MAE last 13 days:
+[2026-04-24 18:05:32]     Linear Regression      MAE=$7.15  weight=21.08%
+[2026-04-24 18:05:32]     Random Forest          MAE=$5.81  weight=25.95%
+[2026-04-24 18:05:32]     SVR                    MAE=$4.80  weight=31.37%
+[2026-04-24 18:05:32]     XGBoost                MAE=$6.97  weight=21.61%
+[2026-04-24 18:05:32] Building features and training models...
+[2026-04-24 18:05:32] Predictions:
+[2026-04-24 18:05:32]   Linear Regression      $338.65  ($-3.67)  weight=21.1%
+[2026-04-24 18:05:32]   Random Forest          $340.10  ($-2.22)  weight=25.9%
+[2026-04-24 18:05:32]   SVR                    $342.42  (+$0.10)  weight=31.4%
+[2026-04-24 18:05:32]   XGBoost                $338.66  ($-3.66)  weight=21.6%
+[2026-04-24 18:05:32]   FAIR VALUE             $340.24  (weighted)
+[2026-04-24 18:05:32] Saved prediction for 2026-04-27 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-24 18:05:32] -------------------------------------------------------
+[2026-04-24 18:05:32] Last close  (2026-04-24): $342.32
+[2026-04-24 18:05:32] Sentiment score: +0.0000
+[2026-04-24 18:05:32] Predictions for 2026-04-27:
+[2026-04-24 18:05:32]   Linear Regression      $338.65  (weight 21.08%)
+[2026-04-24 18:05:32]   Random Forest          $340.10  (weight 25.95%)
+[2026-04-24 18:05:32]   SVR                    $342.42  (weight 31.37%)
+[2026-04-24 18:05:32]   XGBoost                $338.66  (weight 21.61%)
+[2026-04-24 18:05:32]   FAIR VALUE             $340.24
+[2026-04-24 18:05:32] Script v2 finished successfully.
+[2026-04-24 18:05:32] -------------------------------------------------------
+[2026-04-27 17:35:26] Script v2 started — today is 2026-04-27 (Monday)
+[2026-04-27 17:35:26] Downloading GOOG data (2 years)...
+[2026-04-27 17:35:28] Latest available close: 2026-04-27 — $348.52
+[2026-04-27 17:35:28] Updated real close for 2026-04-27: $348.52
+[2026-04-27 17:35:28] Downloading macro data (VIX + SPY)...
+[2026-04-27 17:35:29]   Macro: 500 rows — VIX avg=18.2
+[2026-04-27 17:35:29] Fetching news sentiment...
+[2026-04-27 17:35:29]   Sentiment: no API key found in .env — score = 0.0
+[2026-04-27 17:35:29] Computing dynamic model weights...
+[2026-04-27 17:35:29]   MAE last 14 days:
+[2026-04-27 17:35:29]     Linear Regression      MAE=$7.34  weight=21.06%
+[2026-04-27 17:35:29]     Random Forest          MAE=$5.99  weight=25.81%
+[2026-04-27 17:35:29]     SVR                    MAE=$4.90  weight=31.59%
+[2026-04-27 17:35:29]     XGBoost                MAE=$7.18  weight=21.54%
+[2026-04-27 17:35:29] Building features and training models...
+[2026-04-27 17:35:30] Predictions:
+[2026-04-27 17:35:30]   Linear Regression      $343.17  ($-5.35)  weight=21.1%
+[2026-04-27 17:35:30]   Random Forest          $344.85  ($-3.67)  weight=25.8%
+[2026-04-27 17:35:30]   SVR                    $348.42  ($-0.10)  weight=31.6%
+[2026-04-27 17:35:30]   XGBoost                $341.63  ($-6.89)  weight=21.5%
+[2026-04-27 17:35:30]   FAIR VALUE             $344.93  (weighted)
+[2026-04-27 17:35:30] Saved prediction for 2026-04-28 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-27 17:35:30] -------------------------------------------------------
+[2026-04-27 17:35:30] Last close  (2026-04-27): $348.52
+[2026-04-27 17:35:30] Sentiment score: +0.0000
+[2026-04-27 17:35:30] Predictions for 2026-04-28:
+[2026-04-27 17:35:30]   Linear Regression      $343.17  (weight 21.06%)
+[2026-04-27 17:35:30]   Random Forest          $344.85  (weight 25.81%)
+[2026-04-27 17:35:30]   SVR                    $348.42  (weight 31.59%)
+[2026-04-27 17:35:30]   XGBoost                $341.63  (weight 21.54%)
+[2026-04-27 17:35:30]   FAIR VALUE             $344.93
+[2026-04-27 17:35:30] Script v2 finished successfully.
+[2026-04-27 17:35:30] -------------------------------------------------------
+[2026-04-29 06:59:27] Script v2 started — today is 2026-04-29 (Wednesday)
+[2026-04-29 06:59:27] Downloading GOOG data (2 years)...
+[2026-04-29 06:59:29] Latest available close: 2026-04-28 — $347.5
+[2026-04-29 06:59:29] Updated real close for 2026-04-28: $347.5
+[2026-04-29 06:59:29] Downloading macro data (VIX + SPY)...
+[2026-04-29 06:59:31]   Macro: 501 rows — VIX avg=18.2
+[2026-04-29 06:59:31] Fetching news sentiment...
+[2026-04-29 06:59:31]   Sentiment: no API key found in .env — score = 0.0
+[2026-04-29 06:59:31] Computing dynamic model weights...
+[2026-04-29 06:59:31]   MAE last 15 days:
+[2026-04-29 06:59:31]     Linear Regression      MAE=$7.14  weight=20.89%
+[2026-04-29 06:59:31]     Random Forest          MAE=$5.77  weight=25.86%
+[2026-04-29 06:59:31]     SVR                    MAE=$4.63  weight=32.22%
+[2026-04-29 06:59:31]     XGBoost                MAE=$7.09  weight=21.04%
+[2026-04-29 06:59:31] Building features and training models...
+[2026-04-29 06:59:32] Predictions:
+[2026-04-29 06:59:32]   Linear Regression      $349.11  (+$1.61)  weight=20.9%
+[2026-04-29 06:59:32]   Random Forest          $345.73  ($-1.77)  weight=25.9%
+[2026-04-29 06:59:32]   SVR                    $347.40  ($-0.10)  weight=32.2%
+[2026-04-29 06:59:32]   XGBoost                $342.58  ($-4.92)  weight=21.0%
+[2026-04-29 06:59:32]   FAIR VALUE             $346.35  (weighted)
+[2026-04-29 06:59:32] Saved prediction for 2026-04-29 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-29 06:59:32] -------------------------------------------------------
+[2026-04-29 06:59:32] Last close  (2026-04-28): $347.5
+[2026-04-29 06:59:32] Sentiment score: +0.0000
+[2026-04-29 06:59:32] Predictions for 2026-04-29:
+[2026-04-29 06:59:32]   Linear Regression      $349.11  (weight 20.89%)
+[2026-04-29 06:59:32]   Random Forest          $345.73  (weight 25.86%)
+[2026-04-29 06:59:32]   SVR                    $347.40  (weight 32.22%)
+[2026-04-29 06:59:32]   XGBoost                $342.58  (weight 21.04%)
+[2026-04-29 06:59:32]   FAIR VALUE             $346.35
+[2026-04-29 06:59:32] Script v2 finished successfully.
+[2026-04-29 06:59:32] -------------------------------------------------------
+[2026-04-29 19:34:59] Script v2 started — today is 2026-04-29 (Wednesday)
+[2026-04-29 19:34:59] Downloading GOOG data (2 years)...
+[2026-04-29 19:35:01] Latest available close: 2026-04-29 — $347.31
+[2026-04-29 19:35:01] Updated real close for 2026-04-29: $347.31
+[2026-04-29 19:35:01] Downloading macro data (VIX + SPY)...
+[2026-04-29 19:35:02]   Macro: 501 rows — VIX avg=18.3
+[2026-04-29 19:35:02] Fetching news sentiment...
+[2026-04-29 19:35:02]   Sentiment: no API key found in .env — score = 0.0
+[2026-04-29 19:35:02] Computing dynamic model weights...
+[2026-04-29 19:35:02]   MAE last 16 days:
+[2026-04-29 19:35:02]     Linear Regression      MAE=$6.81  weight=20.91%
+[2026-04-29 19:35:02]     Random Forest          MAE=$5.51  weight=25.85%
+[2026-04-29 19:35:02]     SVR                    MAE=$4.35  weight=32.75%
+[2026-04-29 19:35:02]     XGBoost                MAE=$6.95  weight=20.50%
+[2026-04-29 19:35:02] Building features and training models...
+[2026-04-29 19:35:03] Predictions:
+[2026-04-29 19:35:03]   Linear Regression      $347.89  (+$0.58)  weight=20.9%
+[2026-04-29 19:35:03]   Random Forest          $346.48  ($-0.83)  weight=25.9%
+[2026-04-29 19:35:03]   SVR                    $347.21  ($-0.10)  weight=32.8%
+[2026-04-29 19:35:03]   XGBoost                $343.60  ($-3.71)  weight=20.5%
+[2026-04-29 19:35:03]   FAIR VALUE             $346.46  (weighted)
+[2026-04-29 19:35:03] Saved prediction for 2026-04-30 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-29 19:35:03] -------------------------------------------------------
+[2026-04-29 19:35:03] Last close  (2026-04-29): $347.31
+[2026-04-29 19:35:03] Sentiment score: +0.0000
+[2026-04-29 19:35:03] Predictions for 2026-04-30:
+[2026-04-29 19:35:03]   Linear Regression      $347.89  (weight 20.91%)
+[2026-04-29 19:35:03]   Random Forest          $346.48  (weight 25.85%)
+[2026-04-29 19:35:03]   SVR                    $347.21  (weight 32.75%)
+[2026-04-29 19:35:03]   XGBoost                $343.60  (weight 20.50%)
+[2026-04-29 19:35:03]   FAIR VALUE             $346.46
+[2026-04-29 19:35:03] Script v2 finished successfully.
+[2026-04-29 19:35:03] -------------------------------------------------------
+[2026-04-30 17:35:27] Script v2 started — today is 2026-04-30 (Thursday)
+[2026-04-30 17:35:27] Downloading GOOG data (2 years)...
+[2026-04-30 17:35:28] Latest available close: 2026-04-30 — $381.94
+[2026-04-30 17:35:28] Updated real close for 2026-04-30: $381.94
+[2026-04-30 17:35:28] Downloading macro data (VIX + SPY)...
+[2026-04-30 17:35:30]   Macro: 501 rows — VIX avg=18.3
+[2026-04-30 17:35:30] Fetching news sentiment...
+[2026-04-30 17:35:30]   Sentiment: no API key found in .env — score = 0.0
+[2026-04-30 17:35:30] Computing dynamic model weights...
+[2026-04-30 17:35:30]   MAE last 17 days:
+[2026-04-30 17:35:30]     Linear Regression      MAE=$8.41  weight=22.30%
+[2026-04-30 17:35:30]     Random Forest          MAE=$7.27  weight=25.80%
+[2026-04-30 17:35:30]     SVR                    MAE=$6.13  weight=30.57%
+[2026-04-30 17:35:30]     XGBoost                MAE=$8.79  weight=21.33%
+[2026-04-30 17:35:30] Building features and training models...
+[2026-04-30 17:35:31] Predictions:
+[2026-04-30 17:35:31]   Linear Regression      $348.13  ($-33.81)  weight=22.3%
+[2026-04-30 17:35:31]   Random Forest          $369.74  ($-12.20)  weight=25.8%
+[2026-04-30 17:35:31]   SVR                    $363.68  ($-18.26)  weight=30.6%
+[2026-04-30 17:35:31]   XGBoost                $369.07  ($-12.87)  weight=21.3%
+[2026-04-30 17:35:31]   FAIR VALUE             $362.93  (weighted)
+[2026-04-30 17:35:31] Saved prediction for 2026-05-01 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-04-30 17:35:31] -------------------------------------------------------
+[2026-04-30 17:35:31] Last close  (2026-04-30): $381.94
+[2026-04-30 17:35:31] Sentiment score: +0.0000
+[2026-04-30 17:35:31] Predictions for 2026-05-01:
+[2026-04-30 17:35:31]   Linear Regression      $348.13  (weight 22.30%)
+[2026-04-30 17:35:31]   Random Forest          $369.74  (weight 25.80%)
+[2026-04-30 17:35:31]   SVR                    $363.68  (weight 30.57%)
+[2026-04-30 17:35:31]   XGBoost                $369.07  (weight 21.33%)
+[2026-04-30 17:35:31]   FAIR VALUE             $362.93
+[2026-04-30 17:35:31] Script v2 finished successfully.
+[2026-04-30 17:35:31] -------------------------------------------------------
+[2026-05-01 17:35:28] Script v2 started — today is 2026-05-01 (Friday)
+[2026-05-01 17:35:28] Downloading GOOG data (2 years)...
+[2026-05-01 17:35:29] Latest available close: 2026-05-01 — $383.22
+[2026-05-01 17:35:29] Updated real close for 2026-05-01: $383.22
+[2026-05-01 17:35:29] Downloading macro data (VIX + SPY)...
+[2026-05-01 17:35:31]   Macro: 501 rows — VIX avg=18.3
+[2026-05-01 17:35:31] Fetching news sentiment...
+[2026-05-01 17:35:31]   Sentiment: no API key found in .env — score = 0.0
+[2026-05-01 17:35:31] Computing dynamic model weights...
+[2026-05-01 17:35:31]   MAE last 18 days:
+[2026-05-01 17:35:31]     Linear Regression      MAE=$9.89  weight=20.72%
+[2026-05-01 17:35:31]     Random Forest          MAE=$7.62  weight=26.92%
+[2026-05-01 17:35:31]     SVR                    MAE=$6.88  weight=29.80%
+[2026-05-01 17:35:31]     XGBoost                MAE=$9.09  weight=22.55%
+[2026-05-01 17:35:31] Building features and training models...
+[2026-05-01 17:35:32] Predictions:
+[2026-05-01 17:35:32]   Linear Regression      $385.90  (+$2.68)  weight=20.7%
+[2026-05-01 17:35:32]   Random Forest          $379.23  ($-3.99)  weight=26.9%
+[2026-05-01 17:35:32]   SVR                    $383.12  ($-0.10)  weight=29.8%
+[2026-05-01 17:35:32]   XGBoost                $375.59  ($-7.63)  weight=22.6%
+[2026-05-01 17:35:32]   FAIR VALUE             $380.91  (weighted)
+[2026-05-01 17:35:32] Saved prediction for 2026-05-04 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-05-01 17:35:32] -------------------------------------------------------
+[2026-05-01 17:35:32] Last close  (2026-05-01): $383.22
+[2026-05-01 17:35:32] Sentiment score: +0.0000
+[2026-05-01 17:35:32] Predictions for 2026-05-04:
+[2026-05-01 17:35:32]   Linear Regression      $385.90  (weight 20.72%)
+[2026-05-01 17:35:32]   Random Forest          $379.23  (weight 26.92%)
+[2026-05-01 17:35:32]   SVR                    $383.12  (weight 29.80%)
+[2026-05-01 17:35:32]   XGBoost                $375.59  (weight 22.55%)
+[2026-05-01 17:35:32]   FAIR VALUE             $380.91
+[2026-05-01 17:35:32] Script v2 finished successfully.
+[2026-05-01 17:35:32] -------------------------------------------------------
+[2026-05-04 17:37:56] Script v2 started — today is 2026-05-04 (Monday)
+[2026-05-04 17:37:56] Downloading GOOG data (2 years)...
+[2026-05-04 17:37:58] Latest available close: 2026-05-04 — $379.64
+[2026-05-04 17:37:58] Updated real close for 2026-05-04: $379.64
+[2026-05-04 17:37:58] Downloading macro data (VIX + SPY)...
+[2026-05-04 17:37:59]   Macro: 500 rows — VIX avg=18.3
+[2026-05-04 17:37:59] Fetching news sentiment...
+[2026-05-04 17:37:59]   Sentiment: no API key found in .env — score = 0.0
+[2026-05-04 17:37:59] Computing dynamic model weights...
+[2026-05-04 17:37:59]   MAE last 19 days:
+[2026-05-04 17:37:59]     Linear Regression      MAE=$9.70  weight=20.46%
+[2026-05-04 17:37:59]     Random Forest          MAE=$7.24  weight=27.43%
+[2026-05-04 17:37:59]     SVR                    MAE=$6.70  weight=29.62%
+[2026-05-04 17:37:59]     XGBoost                MAE=$8.82  weight=22.49%
+[2026-05-04 17:37:59] Building features and training models...
+[2026-05-04 17:38:00] Predictions:
+[2026-05-04 17:38:00]   Linear Regression      $385.32  (+$5.68)  weight=20.5%
+[2026-05-04 17:38:00]   Random Forest          $378.33  ($-1.31)  weight=27.4%
+[2026-05-04 17:38:00]   SVR                    $379.54  ($-0.10)  weight=29.6%
+[2026-05-04 17:38:00]   XGBoost                $376.28  ($-3.36)  weight=22.5%
+[2026-05-04 17:38:00]   FAIR VALUE             $379.66  (weighted)
+[2026-05-04 17:38:00] Saved prediction for 2026-05-05 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-05-04 17:38:00] -------------------------------------------------------
+[2026-05-04 17:38:00] Last close  (2026-05-04): $379.64
+[2026-05-04 17:38:00] Sentiment score: +0.0000
+[2026-05-04 17:38:00] Predictions for 2026-05-05:
+[2026-05-04 17:38:00]   Linear Regression      $385.32  (weight 20.46%)
+[2026-05-04 17:38:00]   Random Forest          $378.33  (weight 27.43%)
+[2026-05-04 17:38:00]   SVR                    $379.54  (weight 29.62%)
+[2026-05-04 17:38:00]   XGBoost                $376.28  (weight 22.49%)
+[2026-05-04 17:38:00]   FAIR VALUE             $379.66
+[2026-05-04 17:38:00] Script v2 finished successfully.
+[2026-05-04 17:38:00] -------------------------------------------------------
+[2026-05-05 17:51:36] Script v2 started — today is 2026-05-05 (Tuesday)
+[2026-05-05 17:51:36] Downloading GOOG data (2 years)...
+[2026-05-05 17:51:38] Latest available close: 2026-05-05 — $384.27
+[2026-05-05 17:51:38] Updated real close for 2026-05-05: $384.27
+[2026-05-05 17:51:38] Downloading macro data (VIX + SPY)...
+[2026-05-05 17:51:40]   Macro: 501 rows — VIX avg=18.3
+[2026-05-05 17:51:40] Fetching news sentiment...
+[2026-05-05 17:51:40]   Sentiment: no API key found in .env — score = 0.0
+[2026-05-05 17:51:40] Computing dynamic model weights...
+[2026-05-05 17:51:40]   MAE last 20 days:
+[2026-05-05 17:51:40]     Linear Regression      MAE=$9.27  weight=21.04%
+[2026-05-05 17:51:40]     Random Forest          MAE=$7.17  weight=27.20%
+[2026-05-05 17:51:40]     SVR                    MAE=$6.60  weight=29.55%
+[2026-05-05 17:51:40]     XGBoost                MAE=$8.78  weight=22.21%
+[2026-05-05 17:51:40] Building features and training models...
+[2026-05-05 17:51:41] Predictions:
+[2026-05-05 17:51:41]   Linear Regression      $382.77  ($-1.50)  weight=21.0%
+[2026-05-05 17:51:41]   Random Forest          $382.79  ($-1.48)  weight=27.2%
+[2026-05-05 17:51:41]   SVR                    $384.17  ($-0.10)  weight=29.5%
+[2026-05-05 17:51:41]   XGBoost                $378.78  ($-5.49)  weight=22.2%
+[2026-05-05 17:51:41]   FAIR VALUE             $382.30  (weighted)
+[2026-05-05 17:51:41] Saved prediction for 2026-05-06 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-05-05 17:51:41] -------------------------------------------------------
+[2026-05-05 17:51:41] Last close  (2026-05-05): $384.27
+[2026-05-05 17:51:41] Sentiment score: +0.0000
+[2026-05-05 17:51:41] Predictions for 2026-05-06:
+[2026-05-05 17:51:41]   Linear Regression      $382.77  (weight 21.04%)
+[2026-05-05 17:51:41]   Random Forest          $382.79  (weight 27.20%)
+[2026-05-05 17:51:41]   SVR                    $384.17  (weight 29.55%)
+[2026-05-05 17:51:41]   XGBoost                $378.78  (weight 22.21%)
+[2026-05-05 17:51:41]   FAIR VALUE             $382.30
+[2026-05-05 17:51:41] Script v2 finished successfully.
+[2026-05-05 17:51:41] -------------------------------------------------------
+[2026-05-05 18:00:43] Script v2 started — today is 2026-05-05 (Tuesday)
+[2026-05-05 18:00:43] Downloading GOOG data (2 years)...
+[2026-05-05 18:00:44] Latest available close: 2026-05-05 — $384.27
+[2026-05-05 18:00:44] Downloading macro data (VIX + SPY)...
+[2026-05-05 18:00:46]   Macro: 501 rows — VIX avg=18.3
+[2026-05-05 18:00:46] Fetching news sentiment...
+[2026-05-05 18:00:46]   Sentiment: no API key found in .env — score = 0.0
+[2026-05-05 18:00:46] Computing dynamic model weights...
+[2026-05-05 18:00:46]   MAE last 20 days:
+[2026-05-05 18:00:46]     Linear Regression      MAE=$9.27  weight=21.04%
+[2026-05-05 18:00:46]     Random Forest          MAE=$7.17  weight=27.20%
+[2026-05-05 18:00:46]     SVR                    MAE=$6.60  weight=29.55%
+[2026-05-05 18:00:46]     XGBoost                MAE=$8.78  weight=22.21%
+[2026-05-05 18:00:46] Building features and training models...
+[2026-05-05 18:00:47] Predictions:
+[2026-05-05 18:00:47]   Linear Regression      $382.77  ($-1.50)  weight=21.0%
+[2026-05-05 18:00:47]   Random Forest          $382.79  ($-1.48)  weight=27.2%
+[2026-05-05 18:00:47]   SVR                    $384.17  ($-0.10)  weight=29.5%
+[2026-05-05 18:00:47]   XGBoost                $378.78  ($-5.49)  weight=22.2%
+[2026-05-05 18:00:47]   FAIR VALUE             $382.30  (weighted)
+[2026-05-05 18:00:47] Prediction for 2026-05-06 already exists. Skipping.
+[2026-05-05 18:00:47] -------------------------------------------------------
+[2026-05-05 18:00:47] Last close  (2026-05-05): $384.27
+[2026-05-05 18:00:47] Sentiment score: +0.0000
+[2026-05-05 18:00:47] Predictions for 2026-05-06:
+[2026-05-05 18:00:47]   Linear Regression      $382.77  (weight 21.04%)
+[2026-05-05 18:00:47]   Random Forest          $382.79  (weight 27.20%)
+[2026-05-05 18:00:47]   SVR                    $384.17  (weight 29.55%)
+[2026-05-05 18:00:47]   XGBoost                $378.78  (weight 22.21%)
+[2026-05-05 18:00:47]   FAIR VALUE             $382.30
+[2026-05-05 18:00:47] Script v2 finished successfully.
+[2026-05-05 18:00:47] -------------------------------------------------------
+[2026-05-06 17:35:26] Script v2 started — today is 2026-05-06 (Wednesday)
+[2026-05-06 17:35:26] Downloading GOOG data (2 years)...
+[2026-05-06 17:35:28] Latest available close: 2026-05-06 — $395.14
+[2026-05-06 17:35:28] Updated real close for 2026-05-06: $395.14
+[2026-05-06 17:35:28] Downloading macro data (VIX + SPY)...
+[2026-05-06 17:35:29]   Macro: 501 rows — VIX avg=18.3
+[2026-05-06 17:35:29] Fetching news sentiment...
+[2026-05-06 17:35:29]   Sentiment: no API key found in .env — score = 0.0
+[2026-05-06 17:35:29] Computing dynamic model weights...
+[2026-05-06 17:35:29]   MAE last 21 days:
+[2026-05-06 17:35:29]     Linear Regression      MAE=$9.42  weight=21.36%
+[2026-05-06 17:35:29]     Random Forest          MAE=$7.42  weight=27.11%
+[2026-05-06 17:35:29]     SVR                    MAE=$6.81  weight=29.53%
+[2026-05-06 17:35:29]     XGBoost                MAE=$9.14  weight=22.00%
+[2026-05-06 17:35:29] Building features and training models...
+[2026-05-06 17:35:30] Predictions:
+[2026-05-06 17:35:30]   Linear Regression      $387.26  ($-7.88)  weight=21.4%
+[2026-05-06 17:35:30]   Random Forest          $390.84  ($-4.30)  weight=27.1%
+[2026-05-06 17:35:30]   SVR                    $395.04  ($-0.10)  weight=29.5%
+[2026-05-06 17:35:30]   XGBoost                $384.52  ($-10.62)  weight=22.0%
+[2026-05-06 17:35:30]   FAIR VALUE             $389.93  (weighted)
+[2026-05-06 17:35:30] Saved prediction for 2026-05-07 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-05-06 17:35:30] -------------------------------------------------------
+[2026-05-06 17:35:30] Last close  (2026-05-06): $395.14
+[2026-05-06 17:35:30] Sentiment score: +0.0000
+[2026-05-06 17:35:30] Predictions for 2026-05-07:
+[2026-05-06 17:35:30]   Linear Regression      $387.26  (weight 21.36%)
+[2026-05-06 17:35:30]   Random Forest          $390.84  (weight 27.11%)
+[2026-05-06 17:35:30]   SVR                    $395.04  (weight 29.53%)
+[2026-05-06 17:35:30]   XGBoost                $384.52  (weight 22.00%)
+[2026-05-06 17:35:30]   FAIR VALUE             $389.93
+[2026-05-06 17:35:30] Script v2 finished successfully.
+[2026-05-06 17:35:30] -------------------------------------------------------
+[2026-05-07 18:08:01] Script v2 started — today is 2026-05-07 (Thursday)
+[2026-05-07 18:08:01] Downloading GOOG data (2 years)...
+[2026-05-07 18:08:03] Latest available close: 2026-05-07 — $395.3
+[2026-05-07 18:08:03] Updated real close for 2026-05-07: $395.3
+[2026-05-07 18:08:03] Downloading macro data (VIX + SPY)...
+[2026-05-07 18:08:04]   Macro: 501 rows — VIX avg=18.3
+[2026-05-07 18:08:04] Fetching news sentiment...
+[2026-05-07 18:08:04]   Sentiment: no API key found in .env — score = 0.0
+[2026-05-07 18:08:04] Computing dynamic model weights...
+[2026-05-07 18:08:04]   MAE last 22 days:
+[2026-05-07 18:08:04]     Linear Regression      MAE=$9.35  weight=21.12%
+[2026-05-07 18:08:04]     Random Forest          MAE=$7.28  weight=27.12%
+[2026-05-07 18:08:04]     SVR                    MAE=$6.51  weight=30.33%
+[2026-05-07 18:08:04]     XGBoost                MAE=$9.22  weight=21.43%
+[2026-05-07 18:08:04] Building features and training models...
+[2026-05-07 18:08:05] Predictions:
+[2026-05-07 18:08:05]   Linear Regression      $398.09  (+$2.79)  weight=21.1%
+[2026-05-07 18:08:05]   Random Forest          $392.80  ($-2.50)  weight=27.1%
+[2026-05-07 18:08:05]   SVR                    $395.20  ($-0.10)  weight=30.3%
+[2026-05-07 18:08:05]   XGBoost                $389.14  ($-6.16)  weight=21.4%
+[2026-05-07 18:08:05]   FAIR VALUE             $393.86  (weighted)
+[2026-05-07 18:08:05] Saved prediction for 2026-05-08 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v3.csv
+[2026-05-07 18:08:05] -------------------------------------------------------
+[2026-05-07 18:08:05] Last close  (2026-05-07): $395.3
+[2026-05-07 18:08:05] Sentiment score: +0.0000
+[2026-05-07 18:08:05] Predictions for 2026-05-08:
+[2026-05-07 18:08:05]   Linear Regression      $398.09  (weight 21.12%)
+[2026-05-07 18:08:05]   Random Forest          $392.80  (weight 27.12%)
+[2026-05-07 18:08:05]   SVR                    $395.20  (weight 30.33%)
+[2026-05-07 18:08:05]   XGBoost                $389.14  (weight 21.43%)
+[2026-05-07 18:08:05]   FAIR VALUE             $393.86
+[2026-05-07 18:08:05] Script v2 finished successfully.
+[2026-05-07 18:08:05] -------------------------------------------------------

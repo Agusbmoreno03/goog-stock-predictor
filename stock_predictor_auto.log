@@ -405,3 +405,289 @@
 [2026-04-17 17:30:22]   XGBoost                $336.44
 [2026-04-17 17:30:22] Script finished successfully.
 [2026-04-17 17:30:22] --------------------------------------------------
+[2026-04-22 09:41:22] Script started — today is 2026-04-22 (Wednesday)
+[2026-04-22 09:41:22] Downloading GOOG data (2 years)...
+[2026-04-22 09:41:24] Latest available close: 2026-04-21 — $330.47
+[2026-04-22 09:41:24] Market was NOT open today (last close was 2026-04-21). Will still generate predictions based on latest data.
+[2026-04-22 09:41:24] Building features and training models...
+[2026-04-22 09:41:26] Predictions:
+[2026-04-22 09:41:26]   Linear Regression      $334.83  (+$4.36)
+[2026-04-22 09:41:26]   Random Forest          $331.83  (+$1.36)
+[2026-04-22 09:41:26]   SVR                    $330.37  ($-0.10)
+[2026-04-22 09:41:26]   XGBoost                $330.46  ($-0.01)
+[2026-04-22 09:41:26] Saved prediction for 2026-04-22 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-04-22 09:41:26] --------------------------------------------------
+[2026-04-22 09:41:26] Last close (2026-04-21): $330.47
+[2026-04-22 09:41:26] Predictions for 2026-04-22:
+[2026-04-22 09:41:26]   Linear Regression      $334.83
+[2026-04-22 09:41:26]   Random Forest          $331.83
+[2026-04-22 09:41:26]   SVR                    $330.37
+[2026-04-22 09:41:26]   XGBoost                $330.46
+[2026-04-22 09:41:26] Script finished successfully.
+[2026-04-22 09:41:26] --------------------------------------------------
+[2026-04-22 09:52:22] Script started — today is 2026-04-22 (Wednesday)
+[2026-04-22 09:52:22] Downloading GOOG data (2 years)...
+[2026-04-22 09:52:36] ERROR: No data downloaded. Check internet connection.
+[2026-04-22 17:57:30] Script started — today is 2026-04-22 (Wednesday)
+[2026-04-22 17:57:30] Downloading GOOG data (2 years)...
+[2026-04-22 17:57:35] Latest available close: 2026-04-22 — $337.73
+[2026-04-22 17:57:35] Updated real close for 2026-04-22: $337.73
+[2026-04-22 17:57:35] Building features and training models...
+[2026-04-22 17:57:36] Predictions:
+[2026-04-22 17:57:36]   Linear Regression      $330.08  ($-7.65)
+[2026-04-22 17:57:36]   Random Forest          $335.08  ($-2.65)
+[2026-04-22 17:57:36]   SVR                    $337.17  ($-0.56)
+[2026-04-22 17:57:36]   XGBoost                $333.31  ($-4.42)
+[2026-04-22 17:57:36] Saved prediction for 2026-04-23 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-04-22 17:57:36] --------------------------------------------------
+[2026-04-22 17:57:36] Last close (2026-04-22): $337.73
+[2026-04-22 17:57:36] Predictions for 2026-04-23:
+[2026-04-22 17:57:36]   Linear Regression      $330.08
+[2026-04-22 17:57:36]   Random Forest          $335.08
+[2026-04-22 17:57:36]   SVR                    $337.17
+[2026-04-22 17:57:36]   XGBoost                $333.31
+[2026-04-22 17:57:36] Script finished successfully.
+[2026-04-22 17:57:36] --------------------------------------------------
+[2026-04-23 17:30:12] Script started — today is 2026-04-23 (Thursday)
+[2026-04-23 17:30:12] Downloading GOOG data (2 years)...
+[2026-04-23 17:30:15] Latest available close: 2026-04-23 — $337.75
+[2026-04-23 17:30:15] Updated real close for 2026-04-23: $337.75
+[2026-04-23 17:30:15] Building features and training models...
+[2026-04-23 17:30:17] Predictions:
+[2026-04-23 17:30:17]   Linear Regression      $337.93  (+$0.18)
+[2026-04-23 17:30:17]   Random Forest          $336.83  ($-0.92)
+[2026-04-23 17:30:17]   SVR                    $337.65  ($-0.10)
+[2026-04-23 17:30:17]   XGBoost                $335.48  ($-2.27)
+[2026-04-23 17:30:17] Saved prediction for 2026-04-24 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-04-23 17:30:17] --------------------------------------------------
+[2026-04-23 17:30:17] Last close (2026-04-23): $337.75
+[2026-04-23 17:30:17] Predictions for 2026-04-24:
+[2026-04-23 17:30:17]   Linear Regression      $337.93
+[2026-04-23 17:30:17]   Random Forest          $336.83
+[2026-04-23 17:30:17]   SVR                    $337.65
+[2026-04-23 17:30:17]   XGBoost                $335.48
+[2026-04-23 17:30:17] Script finished successfully.
+[2026-04-23 17:30:17] --------------------------------------------------
+[2026-04-24 17:55:45] Script started — today is 2026-04-24 (Friday)
+[2026-04-24 17:55:45] Downloading GOOG data (2 years)...
+[2026-04-24 17:55:57] ERROR: No data downloaded. Check internet connection.
+[2026-04-24 18:05:41] Script started — today is 2026-04-24 (Friday)
+[2026-04-24 18:05:41] Downloading GOOG data (2 years)...
+[2026-04-24 18:05:42] Latest available close: 2026-04-24 — $342.32
+[2026-04-24 18:05:42] Updated real close for 2026-04-24: $342.32
+[2026-04-24 18:05:42] Building features and training models...
+[2026-04-24 18:05:43] Predictions:
+[2026-04-24 18:05:43]   Linear Regression      $338.44  ($-3.88)
+[2026-04-24 18:05:43]   Random Forest          $340.32  ($-2.00)
+[2026-04-24 18:05:43]   SVR                    $342.22  ($-0.10)
+[2026-04-24 18:05:43]   XGBoost                $338.32  ($-4.00)
+[2026-04-24 18:05:43] Saved prediction for 2026-04-27 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-04-24 18:05:43] --------------------------------------------------
+[2026-04-24 18:05:43] Last close (2026-04-24): $342.32
+[2026-04-24 18:05:43] Predictions for 2026-04-27:
+[2026-04-24 18:05:43]   Linear Regression      $338.44
+[2026-04-24 18:05:43]   Random Forest          $340.32
+[2026-04-24 18:05:43]   SVR                    $342.22
+[2026-04-24 18:05:43]   XGBoost                $338.32
+[2026-04-24 18:05:43] Script finished successfully.
+[2026-04-24 18:05:43] --------------------------------------------------
+[2026-04-27 17:30:04] Script started — today is 2026-04-27 (Monday)
+[2026-04-27 17:30:04] Downloading GOOG data (2 years)...
+[2026-04-27 17:30:06] Latest available close: 2026-04-27 — $348.52
+[2026-04-27 17:30:06] Updated real close for 2026-04-27: $348.52
+[2026-04-27 17:30:06] Building features and training models...
+[2026-04-27 17:30:07] Predictions:
+[2026-04-27 17:30:07]   Linear Regression      $343.19  ($-5.33)
+[2026-04-27 17:30:07]   Random Forest          $344.94  ($-3.58)
+[2026-04-27 17:30:07]   SVR                    $342.52  ($-6.00)
+[2026-04-27 17:30:07]   XGBoost                $340.72  ($-7.80)
+[2026-04-27 17:30:07] Saved prediction for 2026-04-28 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-04-27 17:30:07] --------------------------------------------------
+[2026-04-27 17:30:07] Last close (2026-04-27): $348.52
+[2026-04-27 17:30:07] Predictions for 2026-04-28:
+[2026-04-27 17:30:07]   Linear Regression      $343.19
+[2026-04-27 17:30:07]   Random Forest          $344.94
+[2026-04-27 17:30:07]   SVR                    $342.52
+[2026-04-27 17:30:07]   XGBoost                $340.72
+[2026-04-27 17:30:07] Script finished successfully.
+[2026-04-27 17:30:07] --------------------------------------------------
+[2026-04-29 06:59:20] Script started — today is 2026-04-29 (Wednesday)
+[2026-04-29 06:59:20] Downloading GOOG data (2 years)...
+[2026-04-29 06:59:26] Latest available close: 2026-04-28 — $347.5
+[2026-04-29 06:59:26] Market was NOT open today (last close was 2026-04-28). Will still generate predictions based on latest data.
+[2026-04-29 06:59:26] Updated real close for 2026-04-28: $347.5
+[2026-04-29 06:59:26] Building features and training models...
+[2026-04-29 06:59:29] Predictions:
+[2026-04-29 06:59:29]   Linear Regression      $349.10  (+$1.60)
+[2026-04-29 06:59:29]   Random Forest          $345.88  ($-1.62)
+[2026-04-29 06:59:29]   SVR                    $347.40  ($-0.10)
+[2026-04-29 06:59:29]   XGBoost                $342.48  ($-5.02)
+[2026-04-29 06:59:29] Saved prediction for 2026-04-29 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-04-29 06:59:29] --------------------------------------------------
+[2026-04-29 06:59:29] Last close (2026-04-28): $347.5
+[2026-04-29 06:59:29] Predictions for 2026-04-29:
+[2026-04-29 06:59:29]   Linear Regression      $349.10
+[2026-04-29 06:59:29]   Random Forest          $345.88
+[2026-04-29 06:59:29]   SVR                    $347.40
+[2026-04-29 06:59:29]   XGBoost                $342.48
+[2026-04-29 06:59:29] Script finished successfully.
+[2026-04-29 06:59:29] --------------------------------------------------
+[2026-04-29 19:34:58] Script started — today is 2026-04-29 (Wednesday)
+[2026-04-29 19:34:58] Downloading GOOG data (2 years)...
+[2026-04-29 19:35:00] Latest available close: 2026-04-29 — $347.31
+[2026-04-29 19:35:00] Updated real close for 2026-04-29: $347.31
+[2026-04-29 19:35:00] Building features and training models...
+[2026-04-29 19:35:02] Predictions:
+[2026-04-29 19:35:02]   Linear Regression      $347.76  (+$0.45)
+[2026-04-29 19:35:02]   Random Forest          $347.05  ($-0.26)
+[2026-04-29 19:35:02]   SVR                    $347.41  (+$0.10)
+[2026-04-29 19:35:02]   XGBoost                $343.28  ($-4.03)
+[2026-04-29 19:35:02] Saved prediction for 2026-04-30 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-04-29 19:35:02] --------------------------------------------------
+[2026-04-29 19:35:02] Last close (2026-04-29): $347.31
+[2026-04-29 19:35:02] Predictions for 2026-04-30:
+[2026-04-29 19:35:02]   Linear Regression      $347.76
+[2026-04-29 19:35:02]   Random Forest          $347.05
+[2026-04-29 19:35:02]   SVR                    $347.41
+[2026-04-29 19:35:02]   XGBoost                $343.28
+[2026-04-29 19:35:02] Script finished successfully.
+[2026-04-29 19:35:02] --------------------------------------------------
+[2026-04-30 17:30:12] Script started — today is 2026-04-30 (Thursday)
+[2026-04-30 17:30:12] Downloading GOOG data (2 years)...
+[2026-04-30 17:30:14] Latest available close: 2026-04-30 — $381.94
+[2026-04-30 17:30:14] Updated real close for 2026-04-30: $381.94
+[2026-04-30 17:30:14] Building features and training models...
+[2026-04-30 17:30:16] Predictions:
+[2026-04-30 17:30:16]   Linear Regression      $347.95  ($-33.99)
+[2026-04-30 17:30:16]   Random Forest          $370.02  ($-11.92)
+[2026-04-30 17:30:16]   SVR                    $351.47  ($-30.47)
+[2026-04-30 17:30:16]   XGBoost                $368.98  ($-12.96)
+[2026-04-30 17:30:16] Saved prediction for 2026-05-01 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-04-30 17:30:16] --------------------------------------------------
+[2026-04-30 17:30:16] Last close (2026-04-30): $381.94
+[2026-04-30 17:30:16] Predictions for 2026-05-01:
+[2026-04-30 17:30:16]   Linear Regression      $347.95
+[2026-04-30 17:30:16]   Random Forest          $370.02
+[2026-04-30 17:30:16]   SVR                    $351.47
+[2026-04-30 17:30:16]   XGBoost                $368.98
+[2026-04-30 17:30:16] Script finished successfully.
+[2026-04-30 17:30:16] --------------------------------------------------
+[2026-05-01 17:30:13] Script started — today is 2026-05-01 (Friday)
+[2026-05-01 17:30:13] Downloading GOOG data (2 years)...
+[2026-05-01 17:30:15] Latest available close: 2026-05-01 — $383.22
+[2026-05-01 17:30:15] Updated real close for 2026-05-01: $383.22
+[2026-05-01 17:30:15] Building features and training models...
+[2026-05-01 17:30:16] Predictions:
+[2026-05-01 17:30:16]   Linear Regression      $386.12  (+$2.90)
+[2026-05-01 17:30:16]   Random Forest          $379.54  ($-3.68)
+[2026-05-01 17:30:16]   SVR                    $383.12  ($-0.10)
+[2026-05-01 17:30:16]   XGBoost                $375.44  ($-7.78)
+[2026-05-01 17:30:16] Saved prediction for 2026-05-04 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-05-01 17:30:16] --------------------------------------------------
+[2026-05-01 17:30:16] Last close (2026-05-01): $383.22
+[2026-05-01 17:30:16] Predictions for 2026-05-04:
+[2026-05-01 17:30:16]   Linear Regression      $386.12
+[2026-05-01 17:30:16]   Random Forest          $379.54
+[2026-05-01 17:30:16]   SVR                    $383.12
+[2026-05-01 17:30:16]   XGBoost                $375.44
+[2026-05-01 17:30:16] Script finished successfully.
+[2026-05-01 17:30:16] --------------------------------------------------
+[2026-05-04 17:37:56] Script started — today is 2026-05-04 (Monday)
+[2026-05-04 17:37:56] Downloading GOOG data (2 years)...
+[2026-05-04 17:37:58] Latest available close: 2026-05-04 — $379.64
+[2026-05-04 17:37:58] Updated real close for 2026-05-04: $379.64
+[2026-05-04 17:37:58] Building features and training models...
+[2026-05-04 17:37:59] Predictions:
+[2026-05-04 17:37:59]   Linear Regression      $385.43  (+$5.79)
+[2026-05-04 17:37:59]   Random Forest          $378.41  ($-1.23)
+[2026-05-04 17:37:59]   SVR                    $379.54  ($-0.10)
+[2026-05-04 17:37:59]   XGBoost                $376.48  ($-3.16)
+[2026-05-04 17:37:59] Saved prediction for 2026-05-05 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-05-04 17:37:59] --------------------------------------------------
+[2026-05-04 17:37:59] Last close (2026-05-04): $379.64
+[2026-05-04 17:37:59] Predictions for 2026-05-05:
+[2026-05-04 17:37:59]   Linear Regression      $385.43
+[2026-05-04 17:37:59]   Random Forest          $378.41
+[2026-05-04 17:37:59]   SVR                    $379.54
+[2026-05-04 17:37:59]   XGBoost                $376.48
+[2026-05-04 17:37:59] Script finished successfully.
+[2026-05-04 17:37:59] --------------------------------------------------
+[2026-05-05 17:51:52] Script started — today is 2026-05-05 (Tuesday)
+[2026-05-05 17:51:52] Downloading GOOG data (2 years)...
+[2026-05-05 17:51:54] Latest available close: 2026-05-05 — $384.27
+[2026-05-05 17:51:54] Updated real close for 2026-05-05: $384.27
+[2026-05-05 17:51:54] Building features and training models...
+[2026-05-05 17:51:55] Predictions:
+[2026-05-05 17:51:55]   Linear Regression      $382.58  ($-1.69)
+[2026-05-05 17:51:55]   Random Forest          $383.07  ($-1.20)
+[2026-05-05 17:51:55]   SVR                    $384.17  ($-0.10)
+[2026-05-05 17:51:55]   XGBoost                $378.83  ($-5.44)
+[2026-05-05 17:51:55] Saved prediction for 2026-05-06 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-05-05 17:51:55] --------------------------------------------------
+[2026-05-05 17:51:55] Last close (2026-05-05): $384.27
+[2026-05-05 17:51:55] Predictions for 2026-05-06:
+[2026-05-05 17:51:55]   Linear Regression      $382.58
+[2026-05-05 17:51:55]   Random Forest          $383.07
+[2026-05-05 17:51:55]   SVR                    $384.17
+[2026-05-05 17:51:55]   XGBoost                $378.83
+[2026-05-05 17:51:55] Script finished successfully.
+[2026-05-05 17:51:55] --------------------------------------------------
+[2026-05-05 18:00:41] Script started — today is 2026-05-05 (Tuesday)
+[2026-05-05 18:00:41] Downloading GOOG data (2 years)...
+[2026-05-05 18:00:43] Latest available close: 2026-05-05 — $384.27
+[2026-05-05 18:00:43] Building features and training models...
+[2026-05-05 18:00:44] Predictions:
+[2026-05-05 18:00:44]   Linear Regression      $382.58  ($-1.69)
+[2026-05-05 18:00:44]   Random Forest          $383.07  ($-1.20)
+[2026-05-05 18:00:44]   SVR                    $384.17  ($-0.10)
+[2026-05-05 18:00:44]   XGBoost                $378.83  ($-5.44)
+[2026-05-05 18:00:44] Prediction for 2026-05-06 already exists. Skipping.
+[2026-05-05 18:00:44] --------------------------------------------------
+[2026-05-05 18:00:44] Last close (2026-05-05): $384.27
+[2026-05-05 18:00:44] Predictions for 2026-05-06:
+[2026-05-05 18:00:44]   Linear Regression      $382.58
+[2026-05-05 18:00:44]   Random Forest          $383.07
+[2026-05-05 18:00:44]   SVR                    $384.17
+[2026-05-05 18:00:44]   XGBoost                $378.83
+[2026-05-05 18:00:44] Script finished successfully.
+[2026-05-05 18:00:44] --------------------------------------------------
+[2026-05-06 17:30:06] Script started — today is 2026-05-06 (Wednesday)
+[2026-05-06 17:30:06] Downloading GOOG data (2 years)...
+[2026-05-06 17:30:08] Latest available close: 2026-05-06 — $395.14
+[2026-05-06 17:30:08] Updated real close for 2026-05-06: $395.14
+[2026-05-06 17:30:08] Building features and training models...
+[2026-05-06 17:30:09] Predictions:
+[2026-05-06 17:30:09]   Linear Regression      $387.16  ($-7.98)
+[2026-05-06 17:30:09]   Random Forest          $390.98  ($-4.16)
+[2026-05-06 17:30:09]   SVR                    $395.04  ($-0.10)
+[2026-05-06 17:30:09]   XGBoost                $384.63  ($-10.51)
+[2026-05-06 17:30:09] Saved prediction for 2026-05-07 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-05-06 17:30:09] --------------------------------------------------
+[2026-05-06 17:30:09] Last close (2026-05-06): $395.14
+[2026-05-06 17:30:09] Predictions for 2026-05-07:
+[2026-05-06 17:30:09]   Linear Regression      $387.16
+[2026-05-06 17:30:09]   Random Forest          $390.98
+[2026-05-06 17:30:09]   SVR                    $395.04
+[2026-05-06 17:30:09]   XGBoost                $384.63
+[2026-05-06 17:30:09] Script finished successfully.
+[2026-05-06 17:30:09] --------------------------------------------------
+[2026-05-07 18:07:57] Script started — today is 2026-05-07 (Thursday)
+[2026-05-07 18:07:57] Downloading GOOG data (2 years)...
+[2026-05-07 18:08:00] Latest available close: 2026-05-07 — $395.3
+[2026-05-07 18:08:00] Updated real close for 2026-05-07: $395.3
+[2026-05-07 18:08:00] Building features and training models...
+[2026-05-07 18:08:02] Predictions:
+[2026-05-07 18:08:02]   Linear Regression      $397.72  (+$2.42)
+[2026-05-07 18:08:02]   Random Forest          $392.88  ($-2.42)
+[2026-05-07 18:08:02]   SVR                    $395.20  ($-0.10)
+[2026-05-07 18:08:02]   XGBoost                $389.03  ($-6.27)
+[2026-05-07 18:08:02] Saved prediction for 2026-05-08 to C:\Users\agusm\Downloads\Pythonclass\StockPredictor\goog_backtest_v2.csv
+[2026-05-07 18:08:02] --------------------------------------------------
+[2026-05-07 18:08:02] Last close (2026-05-07): $395.3
+[2026-05-07 18:08:02] Predictions for 2026-05-08:
+[2026-05-07 18:08:02]   Linear Regression      $397.72
+[2026-05-07 18:08:02]   Random Forest          $392.88
+[2026-05-07 18:08:02]   SVR                    $395.20
+[2026-05-07 18:08:02]   XGBoost                $389.03
+[2026-05-07 18:08:02] Script finished successfully.
+[2026-05-07 18:08:02] --------------------------------------------------

@@ -32,7 +32,7 @@ import warnings
 import requests
 from datetime import datetime, timedelta
 from pathlib import Path
-from dotenv import load_dotenv
+
 
 import numpy as np
 import pandas as pd
@@ -52,8 +52,7 @@ BASE_DIR = Path(__file__).parent
 CSV_PATH = BASE_DIR / 'goog_backtest_v3.csv'
 LOG_PATH = BASE_DIR / 'stock_predictor_auto_v2.log'
 
-load_dotenv(BASE_DIR / '.env')
-NEWS_API_KEY = os.getenv('NEWS_API_KEY', '')
+NEWS_API_KEY = '84482ec799834f44bed5268f55ae3d88'
 
 DEFAULT_WEIGHTS = {
     'Linear Regression': 0.15,
